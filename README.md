@@ -1,24 +1,3 @@
-# README
+# graphql-tutorial-ruby
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Follow the steps of the graphql-tutorial for ruby available in https://www.howtographql.com/graphql-ruby
